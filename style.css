@@ -49,6 +49,9 @@ button:hover{
 }
 
 #result{
-    font-size: large;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(29, 96, 185);
 
 }
